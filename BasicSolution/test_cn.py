@@ -3,8 +3,7 @@ from class_similarity import CommonNeighbors
 from sampling_train_test_split import*
 
 
-nodepair_set = [[0,1],[0,2],[1,2],[1,5],[1,3],[3,4],[3,5],[3,4],[2,5],[2,0]]
-nodepair_set_test = [[0,3],[0,4],[1,4],[3,4],[3,5],[3,4],[2,5],[2,0]]
+
 
 
 road = "e:/paper/dataset/com-dblp.ungraph.txt/com_dblp_ungraph.txt"
