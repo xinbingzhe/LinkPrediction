@@ -1,5 +1,8 @@
 # LinkPrediction
-Basic solution of LinkPrediction
+Basic solution of LinkPrediction 
+
+链路预测定义：网络中的链路预测是指如何通过已知的网络结构等信息预测网络中尚未产生连边的两个节点之间产生连接的可能性
 
 /BasicSolution 文件：为基础的链路预测方法，如基于局部信息相似度指标，基于路径相似度指标，基于随机游走相似度指标等。
                     并包含数据采样，训练集测试集的划分，评价指标等方法。
+               
