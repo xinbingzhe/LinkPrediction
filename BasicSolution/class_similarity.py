@@ -49,16 +49,11 @@ class Jaccard(similarity):
 
 
 '''
-x = [ ]
-for i in range(0,25):
-    x.append(random.randint(0,1))
-x = np.array(x)
-x = x.reshape(5,5)
-'''
+test
+
 nodepair_set = [[0,1],[0,2],[1,2],[1,5],[1,3],[3,4],[3,5],[3,4],[2,5],[2,0]]
 
 Ja = Jaccard()
-cn = 
 vertex_dic = create_vertex(nodepair_set)
 
 matrix_train = create_adjmatrix(nodepair_set,vertex_dic)
@@ -67,3 +62,4 @@ print(vertex_dic)
 print(matrix_train)
 
 print(Ja.fit(matrix_train))
+'''
