@@ -1,2 +1,2 @@
 # LinkPrediction
-Basic solutions in LinkPrediction
+Basic solution of LinkPrediction
